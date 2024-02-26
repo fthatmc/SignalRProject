@@ -1,10 +1,21 @@
-![Ekran görüntüsü 2024-02-26 155300](https://github.com/fthatmc/SignalRProject/assets/136472585/b52fb131-3eed-45df-8931-ea4f9e10dc74)
+![Ekran görüntüsü 2024-02-26 152118](https://github.com/fthatmc/SignalRProject/assets/136472585/b98c53fc-bbe7-40b1-a45d-316f9bcefe72)
+
+![Ekran görüntüsü 2024-02-26 153345](https://github.com/fthatmc/SignalRProject/assets/136472585/54141f9e-8084-4091-bfb4-54ed19c14035)
+
 ![Ekran görüntüsü 2024-02-26 155504](https://github.com/fthatmc/SignalRProject/assets/136472585/0effaebe-121a-4657-a4d1-a3d86305c832)
 ![Ekran görüntüsü 2024-02-26 155545](https://github.com/fthatmc/SignalRProject/assets/136472585/cc922b26-268d-40de-8a76-85720e694ab2)
-![Ekran görüntüsü 2024-02-26 155616](https://github.com/fthatmc/SignalRProject/assets/136472585/5ab95944-c04e-44b0-b3aa-3cf155cdf879)
+![Ekran görüntüsü 2024-02-26 155300](https://github.com/fthatmc/SignalRProject/assets/136472585/b52fb131-3eed-45df-8931-ea4f9e10dc74)
+
 ![Ekran görüntüsü 2024-02-26 160020](https://github.com/fthatmc/SignalRProject/assets/136472585/3dec511a-f815-4078-a8b7-60a7ffc477e5)
-![Ekran görüntüsü 2024-02-26 152118](https://github.com/fthatmc/SignalRProject/assets/136472585/b98c53fc-bbe7-40b1-a45d-316f9bcefe72)
-![Ekran görüntüsü 2024-02-26 153345](https://github.com/fthatmc/SignalRProject/assets/136472585/54141f9e-8084-4091-bfb4-54ed19c14035)
+
+
+
+
+
+
+![Ekran görüntüsü 2024-02-26 155616](https://github.com/fthatmc/SignalRProject/assets/136472585/5ab95944-c04e-44b0-b3aa-3cf155cdf879)
+
+
 ![Ekran görüntüsü 2024-02-26 153450](https://github.com/fthatmc/SignalRProject/assets/136472585/71b9656c-f8f7-4978-a5bb-e9077bcacd24)
 ![Ekran görüntüsü 2024-02-26 153517](https://github.com/fthatmc/SignalRProject/assets/136472585/f371d51a-92fa-47b7-bd66-e20a21e249e6)
 ![Ekran görüntüsü 2024-02-26 153848](https://github.com/fthatmc/SignalRProject/assets/136472585/3df555bb-ed9f-469f-a154-fe872519f038)
