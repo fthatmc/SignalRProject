@@ -33,10 +33,9 @@ ASP.NET Core 6.0 SignalR ve Web API kullanılarak geliştirilen proje, tüm CRUD
 
 ## Öne Çıkan Özellikler
 -	Restorana rezervasyon yapma özelliği
--	Online Sipariş verme özelliği
 -	MSSQL ilişkili tablolar
 -	Identity kütüphanesi ile giriş yapma özelliği
--	Admin Panel
+-	Admin Paneli
 -	Adminlere mesaj gönderme
 -	SignalR ile canlı mesajlaşma
 -	SignalR ile masa durumlarını canlı görüntüleme
@@ -45,15 +44,14 @@ ASP.NET Core 6.0 SignalR ve Web API kullanılarak geliştirilen proje, tüm CRUD
 -	Mail gönderme
 
 ## Admin Panel Özellikler
--	Kategoriler CRUD işlemler
--	Ürünler CRUD işlemler
+-	CRUD işlemler
 -	Rezervasyonları sayfa yenilemeden görüntüleme
 -	İndirim oluştruma
 -	İstatistik görüntüleme
 -	Bildirim oluşturma
 -	Masa durumlarını sayfa yenilemeden görüntüleme
 -	Site üzerinden diğer veriler için CRUD işlemler
--	
+  
 ## Teknik Özellikler
 -	MSSQL Veritabanı
 -	Asp.net core 6.0
