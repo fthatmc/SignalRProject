@@ -1,3 +1,70 @@
+# SignalR Restaurant
+
+## Projenin Amacı
+
+Bu projede kullanıcılar, online olarak sipariş verebilir veya rezervasyon oluşturabilirler. Sipariş vermek için kullanıcı kayıt formundan kayıt olup giriş yapması gerekmektedir. 
+Kullanıcı Menü'de bulunan ürünleri sepetine ekleyip sepet iconuna tıklayarak ne kadar ücret ödeyeceğini görebilir.
+Siparişler ve rezervasyonlar, admin panelinde SignalR teknolojisi kullanılarak sayfa yenilemeden canlı olarak görüntülenir. Adminler, bu canlı görüntü üzerinden siparişleri ve rezervasyonları inceleyerek onaylama veya iptal etme yetkisine sahiptir. Herhangi bir durum değişikliği, ilgili kullanıcının gerçek e-posta adresine otomatik olarak gönderilir.Bu sayede, kullanıcılar ve adminler işlemleri anlık olarak takip edebilirler ve herhangi bir değişiklik olduğunda hızlı bir şekilde bilgilendirilirler.
+
+## Teknik Detaylar
+ASP.NET Core 6.0 SignalR ve Web API kullanılarak geliştirilen proje, tüm CRUD işlemlerini API üzerinden gerçekleştirir ve bu işlemler MVC tarafında consume edilir. Dinamik veritabanı yönetimi için Entity Framework Code First kullanılmıştır. Dto katmanı, entity'leri daha güvenli işlemlere tabi tutar. N Katmanlı mimari yapısı, projede uygulanarak kodun daha modüler ve sürdürülebilir olmasına öncelik verilmiştir.
+
+## Kullanılan Teknolojiler
+-	Asp.Net Core 6.0
+-	Asp.Net Core Web API
+-	SignalR
+-	MSSQL
+-	Identity
+-	MailKit
+-	AutoMapper
+-	Entity Framework Code First
+-	Html
+-	Css
+-	JavaScript
+-	Bootstrap
+
+## Katmanlar
+-	UI Layer
+-	Entity Layer
+-	DataAccess Layer
+-	Business Layer
+-	Dto Layer
+-	Web Api Layer
+
+## Öne Çıkan Özellikler
+-	Restorana rezervasyon yapma özelliği
+-	Online Sipariş verme özelliği
+-	MSSQL ilişkili tablolar
+-	Identity kütüphanesi ile giriş yapma özelliği
+-	Admin Panel
+-	Adminlere mesaj gönderme
+-	SignalR ile canlı mesajlaşma
+-	SignalR ile masa durumlarını canlı görüntüleme
+-	Anlık istatistik görüntüleme
+-	Ürünlerde indirim oluşturma
+-	Mail gönderme
+
+## Admin Panel Özellikler
+-	Kategoriler CRUD işlemler
+-	Ürünler CRUD işlemler
+-	Rezervasyonları sayfa yenilemeden görüntüleme
+-	İndirim oluştruma
+-	İstatistik görüntüleme
+-	Bildirim oluşturma
+-	Masa durumlarını sayfa yenilemeden görüntüleme
+-	Site üzerinden diğer veriler için CRUD işlemler
+-	
+## Teknik Özellikler
+-	MSSQL Veritabanı
+-	Asp.net core 6.0
+-	N Katmanlı Mimari Yapı
+-	SignalR ile canlı veri takibi
+-	Entity Framework Code First LINQ
+-	Web API
+-	Identity
+-	AutoMapper
+-	MailKit
+
 ![Ekran görüntüsü 2024-02-26 152118](https://github.com/fthatmc/SignalRProject/assets/136472585/b98c53fc-bbe7-40b1-a45d-316f9bcefe72)
 
 ![Ekran görüntüsü 2024-02-26 153345](https://github.com/fthatmc/SignalRProject/assets/136472585/54141f9e-8084-4091-bfb4-54ed19c14035)
